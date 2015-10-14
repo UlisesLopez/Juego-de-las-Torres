@@ -1,0 +1,13 @@
+C:\Users\CISCO\Desktop\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+C:\Users\CISCO\Desktop\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+C:\Users\CISCO\Desktop\Hanoi\Hanoi\obj\x86\Debug\Hanoi.Form1.resources
+C:\Users\CISCO\Desktop\Hanoi\Hanoi\obj\x86\Debug\Hanoi.Properties.Resources.resources
+C:\Users\CISCO\Desktop\Hanoi\Hanoi\obj\x86\Debug\Hanoi.csproj.GenerateResource.Cache
+C:\Users\CISCO\Desktop\Hanoi\Hanoi\obj\x86\Debug\Hanoi.exe
+C:\Users\CISCO\Desktop\Hanoi\Hanoi\obj\x86\Debug\Hanoi.pdb
+F:\TorresDeHanoi\Hanoi\obj\x86\Debug\Hanoi.exe
+F:\TorresDeHanoi\Hanoi\obj\x86\Debug\Hanoi.pdb
+D:\TorresDeHanoi\Hanoi\obj\x86\Debug\Hanoi.exe
+D:\TorresDeHanoi\Hanoi\obj\x86\Debug\Hanoi.pdb
+C:\Users\Sergio\Desktop\TorresDeHanoi\Hanoi\obj\x86\Debug\Hanoi.exe
+C:\Users\Sergio\Desktop\TorresDeHanoi\Hanoi\obj\x86\Debug\Hanoi.pdb
